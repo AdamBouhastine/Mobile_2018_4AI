@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Notes"
+        android:icon="@drawable/ic_notes"
+        android:id="@+id/Notes"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/Quit"
+        android:title="Quit"
+        android:icon="@drawable/ic_launcher_background"
+        app:showAsAction="collapseActionView"
+        />
+
+</menu>
